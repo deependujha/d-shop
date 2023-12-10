@@ -1,0 +1,11 @@
+.myContainer {
+    margin-top: 20px;
+    margin-left: 50px;
+    margin-bottom: 10px;
+    width: 360px;
+    height: 390px;
+    background-color: #f2f2f2;
+    border-radius: 15px;
+    padding: 5px;
+    display: inline-block;
+}
